@@ -6,13 +6,12 @@
   "license": "ISC",
   "keywords": [],
   "scripts": {
-    "start": "tsx src/index.ts"
+    "start": "node src/index.ts"
   },
   "devDependencies": {
     "@antfu/eslint-config": "^8.2.0",
     "@types/node": "^25.6.0",
     "eslint": "^10.2.0",
-    "tsx": "^4.21.0",
     "typescript": "^6.0.3"
   }
 }
