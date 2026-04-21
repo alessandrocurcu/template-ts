@@ -1,13 +1,16 @@
 {
   "name": "template-ts",
   "type": "module",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "packageManager": "pnpm@10.33.0",
   "author": "Alessandro Curcu <aleqrq@gmail.com>",
   "license": "ISC",
   "keywords": [],
   "scripts": {
-    "start": "node src/index.ts"
+    "start": "node src/index.ts",
+    "lint": "eslint .",
+    "lint:fix": "eslint --fix .",
+    "test": "vitest"
   },
   "devDependencies": {
     "@antfu/eslint-config": "^8.2.0",
