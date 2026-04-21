@@ -1,2 +1,3 @@
-const prova = 'Hello, World!';
-console.log(prova);
+import { sum } from './sum.ts';
+
+console.log(sum(1, 2));
