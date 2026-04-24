@@ -1,7 +1,7 @@
 {
   "name": "template-ts",
   "type": "module",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "packageManager": "pnpm@10.33.0",
   "author": "Alessandro Curcu <aleqrq@gmail.com>",
   "license": "ISC",
@@ -17,6 +17,6 @@
     "@types/node": "^25.6.0",
     "eslint": "^10.2.1",
     "typescript": "^6.0.3",
-    "vitest": "^4.1.4"
+    "vitest": "^4.1.5"
   }
 }
