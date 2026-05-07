@@ -9,3 +9,8 @@ lib-cov
 logs
 node_modules
 temp
+.env
+.env.local
+pnpm-debug.log*
+.vite/
+*.tsbuildinfo
