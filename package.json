@@ -1,7 +1,7 @@
 {
   "name": "template-ts",
   "type": "module",
-  "version": "1.1.2",
+  "version": "1.2.0",
   "packageManager": "pnpm@10.33.0",
   "author": "Alessandro Curcu <aleqrq@gmail.com>",
   "license": "ISC",
@@ -13,10 +13,10 @@
     "test": "vitest"
   },
   "devDependencies": {
-    "@antfu/eslint-config": "^8.2.0",
-    "@types/node": "^25.6.2",
-    "eslint": "^10.3.0",
+    "@antfu/eslint-config": "^9.0.0",
+    "@types/node": "^25.9.1",
+    "eslint": "^10.4.0",
     "typescript": "^6.0.3",
-    "vitest": "^4.1.5"
+    "vitest": "^4.1.7"
   }
 }
